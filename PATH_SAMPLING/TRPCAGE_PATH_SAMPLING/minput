@@ -1,0 +1,14 @@
+1
+304
+0.1
+1000.0
+1000.0
+5
+
+#1 atom1 -start
+#2 atom2 -end
+#3 W'
+#4 tau_1
+#7 well tempered Delta T
+#8 p (modulo) number of atoms to consider
+
